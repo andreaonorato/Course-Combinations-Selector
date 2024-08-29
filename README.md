@@ -19,6 +19,7 @@ The **Course Combinations Selector** is a Python script designed to help student
    
    - Save the Excel file in `.xlsx` format. Ensure that the file is saved in the same directory as the script or update the script with the correct file path.
 1. **Launch main.py**:
+   - Assign to the variable "target_credits" the number of credits you want to take in the semester (as default is 30)
    - This will produce an Excel output file with all the possible combinations
 
 ### Prerequisites
